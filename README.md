@@ -26,6 +26,8 @@ Live: https://github.com/m90khan/Find-You-App-Features-Page/
 
 Duration: 14 hrs - 3 days split
 
+<img src="./resources/Homify-Cover.jpg" alt="" />
+
 ---
 
 #### Process
@@ -34,7 +36,7 @@ Duration: 14 hrs - 3 days split
 - Implementation of HTML structure
 - Applied component based styling
 
-<img src="./overview.jpg" alt="" />
+<img src="./resources/Homify.jpg" alt="" />
 
 ---
 
