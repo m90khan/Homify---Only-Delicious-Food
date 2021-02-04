@@ -54,19 +54,20 @@ Duration: 14 hrs - 3 days split
 
 ### Connect with me:
 
+[<img align="left" alt="Khan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="khanmohsinx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="khanuxd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="khanuxd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />][behance]
 [<img align="left" alt="khanuxd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />][dribble]
-[<img align="left" alt="Khan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
 ---
 
 [youtube]: https://www.youtube.com/channel/UC96rVfdTKsjZpREnH6CaCOw
 [twitter]: https://twitter.com/m90khan
-[linkedin]: www.linkedin.com/in/uxdkhan
+[linkedin]: https://www.linkedin.com/in/uxdkhan
 [instagram]: https://www.instagram.com/uxd.khan/
 [behance]: https://www.behance.net/Khan_Mohsin
 [dribble]: https://dribbble.com/uxdkhan
